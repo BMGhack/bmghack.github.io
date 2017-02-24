@@ -8,7 +8,7 @@ Sound like fun? Come join us!
 
 ## Meeting schedule:
 
-We have an initial organizational meeting scheduled Februrary 21, 2017 @ Cowork Btown. More info is available here: [https://nvite.com/Code4BTown/e5ae](https://nvite.com/Code4BTown/e5ae)
+Our next meeting will take place at City Hall on **March 28, 2017 at 5:30pm** . More info is available here: [https://nvite.com/BMGHack/d3c3](https://nvite.com/BMGHack/d3c3)
 
 ## Projects
 
