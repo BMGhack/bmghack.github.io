@@ -6,9 +6,12 @@ To paraphrase [this article on opengovdata.io](https://opengovdata.io/2014/civic
 
 Sound like fun? Come join us!
 
-## Meeting schedule:
+## Meeting schedule
 
 Our next meeting will take place at City Hall on **March 28, 2017 at 5:30pm** . More info is available here: [https://nvite.com/BMGHack/d3c3](https://nvite.com/BMGHack/d3c3)
+
+## Stay in the loop
+Let us know what you're interested in and we'll help connect you with others interested in that topic: [Google form](https://docs.google.com/a/bloomington.in.gov/forms/d/11OfZbHLWMta_fjEma0PB0mzodVCm8da3Nwsj2jRBL-8/edit?ts=58b03c48)
 
 ## Projects
 
