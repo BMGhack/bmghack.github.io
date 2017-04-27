@@ -13,6 +13,7 @@ Our next meeting will take place on **May 16th at 5:30pm.** at 908 N Walnut Stre
 ## Stay in the loop
 
 We've configured a Google Group so that everyone can stay connected: [Google Group](https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking)
+
 Feel free to use issues on this github project as well!
 
 ## Projects
