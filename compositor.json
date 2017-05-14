@@ -1,0 +1,85 @@
+{
+  "name": "City-of-Bloomington/civic-hacking",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "Civic Hacking",
+  "branch": "master",
+  "style": {
+    "name": "Material",
+    "componentSet": {
+      "nav": "nav/DarkAbsoluteNav",
+      "header": "header/GradientHeader",
+      "article": "article/BasicArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Roboto, sans-serif",
+    "heading": {
+      "fontWeight": 500,
+      "letterSpacing": "-0.01em"
+    },
+    "colors": {
+      "text": "#212121",
+      "background": "#fff",
+      "primary": "#2196f3",
+      "secondary": "#1565c0",
+      "highlight": "#ff4081",
+      "border": "#e0e0e0",
+      "muted": "#f5f5f5"
+    },
+    "layout": {
+      "centered": true,
+      "bannerHeight": "80vh",
+      "maxWidth": 896
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/City-of-Bloomington/civic-hacking",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "civic-hacking",
+      "subhead": "Documents and materials for Bloomington, Indiana's civic hacking group.",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "civic-hacking: Documents and materials for Bloomington, Indiana's civic hacking group.",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "City-of-Bloomington",
+          "repo": "civic-hacking"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<h1><a href=\"https://city-of-bloomington.github.io/civic-hacking/\">Civic Hacking in Bloomington, Indiana</a></h1>\n<p>To paraphrase <a href=\"https://opengovdata.io/2014/civic-hacking/\">this article on opengovdata.io</a>:</p>\n<p>&quot;Civic hackers are programmers, designers, data scientists, good communicators, civic organizers, entrepreneurs, government employees and anyone willing to get her hands dirty solving problems. &quot;</p>\n<p>Sound like fun? Come join us!</p>\n<h2>Meeting schedule</h2>\n<p>Our next meeting will take place on <strong>May 16th at 5:30pm.</strong> at 908 N Walnut Street. (Thanks to Sproutbox for hosting us!) </p>\n<h2>Stay in the loop</h2>\n<p>We&apos;ve configured a Google Group so that everyone can stay connected: <a href=\"https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking\">Google Group</a></p>\n<p>Feel free to use issues on this github project as well!</p>\n<h2>Projects</h2>\n<p>Have an idea for a civic problem that needs a solution? Add it to the <a href=\"/projects\">project page</a> and find others interested in solving the problem.</p>\n<h2>More info</h2>\n<p>Expand on the types of civic hacking groups (e.g. Code for America Brigade) and how they work.</p>\n<h2>Supporting documents</h2>\n<p>Any materials that help with running the group can be collected in <a href=\"/docs\">docs</a></p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/City-of-Bloomington/civic-hacking",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/City-of-Bloomington",
+          "text": "City-of-Bloomington"
+        }
+      ]
+    }
+  ]
+}
