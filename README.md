@@ -18,7 +18,7 @@ Feel free to use issues on this github project as well!
 
 ## Projects
 
-Have an idea for a civic problem that needs a solution? Add it to the [project page](/projects) and find others interested in solving the problem.
+Have an idea for a civic problem that needs a solution? Add it to the [project page](https://github.com/BMGhack/civic-hacking/wiki) and find others interested in solving the problem.
 
 ## More info
 
