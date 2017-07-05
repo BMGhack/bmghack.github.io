@@ -78,6 +78,10 @@
         {
           "href": "https://github.com/City-of-Bloomington",
           "text": "City-of-Bloomington"
+        },
+        {
+          "href": "https://data.bloomington.in.gov/",
+          "text": "City Data"
         }
       ]
     }
