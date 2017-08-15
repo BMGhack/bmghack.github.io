@@ -8,7 +8,7 @@ Sound like fun? Come join us!
 
 ## Meeting schedule
 
-Our next meeting will take place on **May 16th at 5:30pm.** at 908 N Walnut Street. (Thanks to Sproutbox for hosting us!) 
+Our next meeting will take place on **August 15th at 5:30pm.** at Monroe County Public Library room 1B 
 
 ## Stay in the loop
 
@@ -20,10 +20,11 @@ Feel free to use issues on this github project as well!
 
 Have an idea for a civic problem that needs a solution? Add it to the [project page](https://github.com/BMGhack/civic-hacking/wiki) and find others interested in solving the problem.
 
-## More info
+http://brigade.codeforamerica.org/brigade/projects
+
+## More info & Supporting documents
+
+Any materials that help with running the group can be collected in [docs](/docs)
 
 Expand on the types of civic hacking groups (e.g. Code for America Brigade) and how they work.
 
-## Supporting documents
-
-Any materials that help with running the group can be collected in [docs](/docs)
