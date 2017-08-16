@@ -8,11 +8,17 @@ Sound like fun? Come join us!
 
 ## Meeting schedule
 
-Our next meeting will take place on **August 15th at 5:30pm.** at Monroe County Public Library room 1B 
+Meetings happen on the third Tuesday of every month. 
+
+Our next meeting will take place on **September 19th at 5:30pm.** (Location: TBD) 
 
 ## Stay in the loop
 
-We've configured a Google Group so that everyone can stay connected: [Google Group](https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking)
+There is a Slack group set up: https://bmghack.slack.com
+
+[Link to join](https://join.slack.com/t/bmghack/shared_invite/MjI4MTgwNTEzNDMxLTE1MDI4MzU1OTEtZTNkY2ZmMDEzNQ)
+
+We've also configured a low volume Google Group so that everyone can stay connected: [Google Group](https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking)
 
 Feel free to use issues on this github project as well!
 
