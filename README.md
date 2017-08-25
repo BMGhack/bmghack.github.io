@@ -12,7 +12,7 @@ Meetings happen on the third Tuesday of every month.
 
 Our next meeting will take place on **September 19th at 5:30pm.** (Location: TBD) 
 
-[Calendar](https://www.google.com/calendar/render?mode=day&date=20170821T204025)
+[Calendar](https://calendar.google.com/calendar/embed?src=bloomington.in.gov_3e0ug3iakbapl022s13ttgn1o8%40group.calendar.google.com&ctz=America/New_York)
 
 ## Stay in the loop
 
