@@ -12,6 +12,8 @@ Meetings happen on the third Tuesday of every month.
 
 Our next meeting will take place on **September 19th at 5:30pm.** (Location: TBD) 
 
+[Calendar](https://www.google.com/calendar/render?mode=day&date=20170821T204025)
+
 ## Stay in the loop
 
 There is a Slack group set up: https://bmghack.slack.com
