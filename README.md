@@ -6,6 +6,8 @@ To paraphrase [this article on opengovdata.io](https://opengovdata.io/2014/civic
 
 Sound like fun? Come join us!
 
+We're a [Code for America](brigade.codeforamerica.org/brigade/) brigade.
+
 ## Meeting schedule
 
 Meetings happen on the third Tuesday of every month. 
@@ -34,5 +36,6 @@ http://brigade.codeforamerica.org/brigade/projects
 
 Any materials that help with running the group can be collected in [docs](/docs)
 
-Expand on the types of civic hacking groups (e.g. Code for America Brigade) and how they work.
+
+
 
