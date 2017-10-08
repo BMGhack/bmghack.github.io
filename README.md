@@ -1,8 +1,10 @@
 # [Civic Hacking in Bloomington, Indiana](https://bmghack.github.io/civic-hacking/)
 
+We're the official [Code for America](http://brigade.codeforamerica.org/brigade/) Brigade for Bloomington, Indiana.
+
 To paraphrase [this article on opengovdata.io](https://opengovdata.io/2014/civic-hacking/):
 
-"Civic hackers are programmers, designers, data scientists, good communicators, civic organizers, entrepreneurs, government employees and anyone willing to get her hands dirty solving problems. "
+*"Civic hackers are programmers, designers, data scientists, good communicators, civic organizers, entrepreneurs, government employees and anyone willing to get her hands dirty solving problems."*
 
 Sound like fun? Come join us!
 
@@ -10,7 +12,7 @@ Sound like fun? Come join us!
 
 Meetings happen on the third Tuesday of every month. 
 
-Our next meeting will take place on **September 19th at 5:30pm.** (Location: TBD) 
+Our next meeting will take place on **October 16 at 5:30pm.** (Location: Room 214, Monroe County Public Library) 
 
 [Calendar](https://calendar.google.com/calendar/embed?src=bloomington.in.gov_3e0ug3iakbapl022s13ttgn1o8%40group.calendar.google.com&ctz=America/New_York)
 
