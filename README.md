@@ -1,3 +1,5 @@
+(github settings have been configured to look at master branch for changes to github.io site. Changes to this branch will be ignored)
+
 # [Civic Hacking in Bloomington, Indiana](https://city-of-bloomington.github.io/civic-hacking/)
 
 To paraphrase [this article on opengovdata.io](https://opengovdata.io/2014/civic-hacking/):
