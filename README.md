@@ -8,13 +8,12 @@ Sound like fun? Come join us!
 
 ## Meeting schedule
 
-Meetings happen on the third Monday of every month. 
+Meetings happen on the second Thursday of every month. 
 
-Our scheduled meeting for 2017 are:
+Our scheduled meeting for 2018 are:
 
-**Monday November 20th at 5:30pm.** (Location: Monroe County Public Library, Room 214, 303 E Kirkwood Ave, Bloomington, IN 47408, USA) 
-
-**Monday December 18th at 5:30pm.** (Location: Monroe County Public Library, Room 214, 303 E Kirkwood Ave, Bloomington, IN 47408, USA) 
+**Thursday January 11th at 5:30pm.** (Location: Cowork, 213 S Rogers). 
+Please RSVP at this link so we can calculate pizza quantities (or other food TBD): https://www.eventbrite.com/e/bmg-hack-january-meeting-tickets-41593635684
 
 [Calendar](https://calendar.google.com/calendar/embed?src=bloomington.in.gov_3e0ug3iakbapl022s13ttgn1o8%40group.calendar.google.com&ctz=America/New_York)
 
