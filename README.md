@@ -1,8 +1,12 @@
 # [Civic Hacking in Bloomington, Indiana](https://bmghack.github.io/civic-hacking/)
 
-To paraphrase [this article on opengovdata.io](https://opengovdata.io/2014/civic-hacking/):
+What is Civic Hacking? To paraphrase [this article on opengovdata.io](https://opengovdata.io/2014/civic-hacking/):
 
 "Civic hackers are programmers, designers, data scientists, good communicators, civic organizers, entrepreneurs, government employees and anyone willing to get her hands dirty solving problems. "
+
+We're officially a [Code for America Brigade](http://brigade.codeforamerica.org/brigade/BMG-Hack/).
+
+[![About Code for America Brigades](https://img.youtube.com/vi/mYzMl_HnEZU/0.jpg)](https://www.youtube.com/watch?v=mYzMl_HnEZU)
 
 Sound like fun? Come join us!
 
@@ -12,8 +16,7 @@ Meetings happen on the second Thursday of every month.
 
 Our scheduled meeting for 2018 are:
 
-**Thursday January 11th at 5:30pm.** (Location: Cowork, 213 S Rogers). 
-Please RSVP at this link so we can calculate pizza quantities (or other food TBD): https://www.eventbrite.com/e/bmg-hack-january-meeting-tickets-41593635684
+**Thursday February 8th at 5:30pm.** (Location: Cowork, 213 S Rogers). 
 
 [Calendar](https://calendar.google.com/calendar/embed?src=bloomington.in.gov_3e0ug3iakbapl022s13ttgn1o8%40group.calendar.google.com&ctz=America/New_York)
 
