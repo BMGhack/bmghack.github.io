@@ -16,7 +16,8 @@ Meetings happen on the second Thursday of every month.
 
 Our scheduled meeting for 2018 are:
 
-**Thursday March 8th at 5:30pm.** (Location: City of Bloomington - Kelly Room #155, 401 North Morton St). 
+**Saturday, April 7th at 10:00am.** Civic Code & Design Challenge (Location: Combine Conference, Convention Center)
+**Thursday April 12th at 5:30pm.** Work Session (Location: Cowork, 213 South Rogers Street, Bloomington, IN). 
 
 [Calendar](https://calendar.google.com/calendar/embed?src=bloomington.in.gov_3e0ug3iakbapl022s13ttgn1o8%40group.calendar.google.com&ctz=America/New_York)
 
