@@ -1,4 +1,4 @@
-# [Civic Hacking in Bloomington, Indiana](https://bmghack.github.io/civic-hacking/)
+# [Civic Hacking in Bloomington, Indiana](https://bmghack.github.io)
 
 What is Civic Hacking? To paraphrase [this article on opengovdata.io](https://opengovdata.io/2014/civic-hacking/):
 
@@ -33,7 +33,7 @@ Feel free to use issues on this github project as well!
 
 ## Projects
 
-Have an idea for a civic problem that needs a solution? Add it to the [project page](https://github.com/BMGhack/civic-hacking/wiki) and find others interested in solving the problem.
+Have an idea for a civic problem that needs a solution? Add it to the [project page](https://github.com/BMGhack/bmghack.github.io/wiki) and find others interested in solving the problem.
 
 http://brigade.codeforamerica.org/brigade/projects
 
