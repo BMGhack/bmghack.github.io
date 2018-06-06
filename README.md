@@ -24,7 +24,7 @@ Our scheduled meeting for 2018 are:
 
 There is a Slack group set up: https://bmghack.slack.com
 
-[Link to join](https://join.slack.com/t/bmghack/shared_invite/MjI4MTgwNTEzNDMxLTE1MDI4MzU1OTEtZTNkY2ZmMDEzNQ)
+[Link to join](https://join.slack.com/t/bmghack/shared_invite/enQtMjM5ODQyNzE5MTI0LTMwYWZmYzU2NjU0MmQ5MGY4MzBhNGJhNmExYmZkMGNlMzBjMDMxNDE4ODM4ZTczYzI1YjVlYzU4OGQ1YjczODk)
 
 We've also configured a low volume Google Group so that everyone can stay connected: [Google Group](https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking)
 
