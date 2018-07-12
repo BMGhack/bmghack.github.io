@@ -16,7 +16,7 @@ Meetings happen on the second Thursday of every month.
 
 Our scheduled meeting for 2018 are:
 
-**Thursday June 14th at 5:30pm.** Work Session (Location: Cowork, 213 South Rogers Street, Bloomington, IN). 
+**Thursday August 9th at 5:30pm.** (Location: Cowork, 213 South Rogers Street, Bloomington, IN). 
 
 [Calendar](https://calendar.google.com/calendar/embed?src=bloomington.in.gov_3e0ug3iakbapl022s13ttgn1o8%40group.calendar.google.com&ctz=America/New_York)  [Meetup](https://www.meetup.com/Code-for-Bloomington-BMG-Hack/events/)
 
