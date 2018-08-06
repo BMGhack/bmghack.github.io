@@ -4,11 +4,7 @@ What is Civic Hacking? To paraphrase [this article on opengovdata.io](https://op
 
 "Civic hackers are programmers, designers, data scientists, good communicators, civic organizers, entrepreneurs, government employees and anyone willing to get her hands dirty solving problems. "
 
-We're officially a [Code for America Brigade](http://brigade.codeforamerica.org/brigade/BMG-Hack/).
-
-[![About Code for America Brigades](https://img.youtube.com/vi/mYzMl_HnEZU/0.jpg)](https://www.youtube.com/watch?v=mYzMl_HnEZU)
-
-Sound like fun? Come join us!
+We're a [Code for America Brigade](http://brigade.codeforamerica.org/brigade/BMG-Hack/).
 
 ## Meeting schedule
 
@@ -19,6 +15,8 @@ Our scheduled meeting for 2018 are:
 **Saturday August 11th at 10am-noon.** (Location: [Bloomington Community Farmers' Market](https://bloomington.in.gov/farmers-market) 401 N Morton St). 
 
 [Calendar](https://calendar.google.com/calendar/embed?src=bloomington.in.gov_3e0ug3iakbapl022s13ttgn1o8%40group.calendar.google.com&ctz=America/New_York)  [Meetup](https://www.meetup.com/Code-for-Bloomington-BMG-Hack/events/)
+
+[![About Code for America Brigades](https://img.youtube.com/vi/mYzMl_HnEZU/0.jpg)](https://www.youtube.com/watch?v=mYzMl_HnEZU)
 
 ## Stay in the loop
 
