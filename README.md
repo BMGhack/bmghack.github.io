@@ -2,13 +2,13 @@
 
 What is Civic Hacking? To paraphrase [this article on opengovdata.io](https://opengovdata.io/2014/civic-hacking/):
 
-"Civic hackers are programmers, designers, data scientists, good communicators, civic organizers, entrepreneurs, government employees and anyone willing to get her hands dirty solving problems. "
+"Civic hackers are programmers, designers, data scientists, good communicators, civic organizers, entrepreneurs, government employees and anyone willing to get her hands dirty solving problems."
 
 We're a [Code for America Brigade](http://brigade.codeforamerica.org/brigade/BMG-Hack/).
 
 ## Meeting schedule
 
-Meetings happen on the second Thursday of every month. 
+Meetings happen on the second Thursday of every month. Tech skills aren't necessary to participate, only a willingness to collaborate to make our community better. 
 
 Our scheduled meeting for 2018 are:
 
