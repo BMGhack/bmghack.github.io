@@ -12,7 +12,8 @@ Meetings happen on the second Thursday of every month. Tech skills aren't necess
 
 Our scheduled meeting for 2018 are:
 
-**Thursday, September 13th at 5:30 p.m.** (Location: [Cowork Bloomington](http://www.coworkbtown.com/) 213 South Rogers Street, Bloomington, IN). 
+**Thursday, September 13th at 5:30 p.m.**  
+Location: [Cowork Bloomington](http://www.coworkbtown.com/) 213 South Rogers Street, Bloomington, IN. 
 
 [Google Calendar](https://calendar.google.com/calendar/embed?src=bloomington.in.gov_3e0ug3iakbapl022s13ttgn1o8%40group.calendar.google.com&ctz=America/New_York)  
 
