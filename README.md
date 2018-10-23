@@ -8,7 +8,7 @@ We're a [Code for America Brigade](http://brigade.codeforamerica.org/brigade/BMG
 
 ## Stay in the loop
 
-There is a Slack group set up: https://bmghack.slack.com
+There is a Slack group set up: [bmghack.slack.com](https://bmghack.slack.com)
 
 [Link to join](https://join.slack.com/t/bmghack/shared_invite/enQtMjM5ODQyNzE5MTI0LTMwYWZmYzU2NjU0MmQ5MGY4MzBhNGJhNmExYmZkMGNlMzBjMDMxNDE4ODM4ZTczYzI1YjVlYzU4OGQ1YjczODk)
 
@@ -26,9 +26,7 @@ Our scheduled meeting for 2018 are:
 
 ## Projects
 
-Have an idea for a civic problem that needs a solution? Add it to the [project page](https://github.com/BMGhack/bmghack.github.io/wiki) and find others interested in solving the problem.
-
-http://brigade.codeforamerica.org/brigade/projects
+Have an idea for a civic problem that needs a solution? Add it to the [project page](https://github.com/BMGhack/bmghack.github.io/wiki) and find others interested in solving the problem.  You can also browse code for america's [civic tech project page](http://brigade.codeforamerica.org/projects) for additional ideas.
 
 ## More info & Supporting documents
 
