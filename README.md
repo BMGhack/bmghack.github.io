@@ -16,9 +16,9 @@ We've also configured a low volume Google Group so that everyone can stay connec
 
 ## Meeting schedule
 
-Meetings happen on the second Thursday of every month, although lately more activity has been happening on Slack. Tech skills aren't necessary to participate, only a willingness to collaborate to make our community better. 
+Meetings happen on the first Thursday of every month, although lately more activity has been happening on Slack. Tech skills aren't necessary to participate, only a willingness to collaborate to make our community better. 
 
-Our scheduled meeting for 2019 are:
+Our scheduled meetings are:
 
 [Google Calendar](https://calendar.google.com/calendar/embed?src=bloomington.in.gov_3e0ug3iakbapl022s13ttgn1o8%40group.calendar.google.com&ctz=America/New_York)  
 
