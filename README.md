@@ -10,7 +10,7 @@ We're a [Code for America Brigade](http://brigade.codeforamerica.org/brigade/BMG
 
 There is a Slack group set up: [bmghack.slack.com](https://bmghack.slack.com)
 
-[Link to join](https://join.slack.com/t/bmghack/shared_invite/enQtMjM5ODQyNzE5MTI0LTMwYWZmYzU2NjU0MmQ5MGY4MzBhNGJhNmExYmZkMGNlMzBjMDMxNDE4ODM4ZTczYzI1YjVlYzU4OGQ1YjczODk)
+[Link to join](https://join.slack.com/t/bmghack/shared_invite/enQtNTI1ODY4NTU1MDk0LWUzZjhmZjgxNGJjYzY3MmZkMmM2N2FhOWI3OGI5ODc4NmVjOGFkOWRhZDI0MDE3ZjliNzhhZmJmYjFmODU0Y2E)(updated 2020.02)
 
 We've also configured a low volume Google Group so that everyone can stay connected: [Google Group](https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking)
 
